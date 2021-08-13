@@ -291,3 +291,5 @@ grant select on book to customer, membership;
 grant select on branch to customer, membership;
 grant select on all_tables to staff;
 grant all privileges to admin;
+
+COMMIT;
